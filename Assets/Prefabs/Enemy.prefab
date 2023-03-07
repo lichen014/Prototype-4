@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 3161772657270369347}
   - component: {fileID: 3161772657270369346}
   - component: {fileID: 3161772657270369357}
-  - component: {fileID: 3161772657270369356}
+  - component: {fileID: 4300055507052724078}
   - component: {fileID: 3161772657270369345}
   m_Layer: 0
   m_Name: Enemy
@@ -99,7 +99,7 @@ SphereCollider:
   serializedVersion: 2
   m_Radius: 0.5
   m_Center: {x: 0, y: 0, z: 0}
---- !u!54 &3161772657270369356
+--- !u!54 &4300055507052724078
 Rigidbody:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
